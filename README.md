@@ -1,2 +1,2 @@
-# hello_world
-test_repo
+# python training material (old1)
+
